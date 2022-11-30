@@ -1,0 +1,3 @@
+build_stage:
+  script:
+   - npm install -g gatsby-cli 
